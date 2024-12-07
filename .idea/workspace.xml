@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fac2eba6-8f31-4c5a-ac90-9f9fa7c08aba" name="Changes" comment="integrated parts 1 + 2 submission file (with menu)">
+    <list default="true" id="fac2eba6-8f31-4c5a-ac90-9f9fa7c08aba" name="Changes" comment="...">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/group1_Lab8_APIs.py" beforeDir="false" afterPath="$PROJECT_DIR$/group1_Lab8_APIs.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,12 +88,39 @@
       <option name="project" value="LOCAL" />
       <updated>1733525429943</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="updated README.md">
+      <option name="closed" value="true" />
+      <created>1733591341559</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1733591341559</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added api names to menu">
+      <option name="closed" value="true" />
+      <created>1733591437140</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1733591437140</updated>
+    </task>
+    <task id="LOCAL-00005" summary="...">
+      <option name="closed" value="true" />
+      <created>1733591451608</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1733591451608</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="integrated parts 1 + 2 submission file (with menu)" />
-    <option name="LAST_COMMIT_MESSAGE" value="integrated parts 1 + 2 submission file (with menu)" />
+    <MESSAGE value="updated README.md" />
+    <MESSAGE value="added api names to menu" />
+    <MESSAGE value="..." />
+    <option name="LAST_COMMIT_MESSAGE" value="..." />
   </component>
 </project>
