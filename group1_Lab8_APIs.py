@@ -5,8 +5,8 @@ import csv
 # Part 0 - Menu
 while True:
     print("===== Lab 8 - Accessing data via APIs =====")
-    print("1: Non-authenticated API")
-    print("2: Authenticated API")
+    print("1: Non-authenticated API: universities.hipolabs.com")
+    print("2: Authenticated API: api.themoviedb.org")
     print("*: Exit")
     user_input = input("\n")
 
